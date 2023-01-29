@@ -3,7 +3,7 @@
 Find my Activity is a Machine Learning model that flags(predict) the inactivity of a vessel's AIS in Baltic sea area. 
 ## Problem Statement
 This project deals with the below problem statement of Hackerflow2.0 (https://github.com/hackoverflow2/Hackoverflow-2.0/tree/main/Blue%20Economy) :
-###Flagging of (AIS) INactivity Data (FIND) - (Blue Economy)
+### Flagging of (AIS) INactivity Data (FIND) - (Blue Economy)
 AIS is a useful system that helps to avoid ship collisions and allows managers of fleet management, especially for emergencies e.g. adverse sea conditions. Vessels keep the AIS beacons on in order to stay safe. However, sometimes the vessels do not transmit. The reasons for this may be unknown. As much as the AIS activity data are important, the inactivity data can also be put to use to understand the possible reasons behind such behavior and if needed, respond in the appropriate manner. The interactive tool should be able to categorize the AIS inactivity episodes for a single vessel or multiple vessels in a selected region. Further, the data may be classified based on the ship behavior prior to the inactivity, as well as based on various inactivity parameters such as location, time and duration of inactivity.
 ## Description and features
 AIS (Automatic Identification System) is a program fitted into marine vessels that transmits vessesl's locometric data as vessel identification(mmsi), position(latitude and longitude), speed and course to a shore station and other vessels. The actual reason behind 
