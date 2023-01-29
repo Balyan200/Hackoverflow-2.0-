@@ -15,3 +15,6 @@ Furthermore, density of occurence of inactivity of different vessels over months
 3) 2: Poor transmission signal
 
 After manual labelling and preprocessing, Random forest, logistic regression and linear regression algorithms are used for prediction with 100% accuray of Random forest model.
+
+## Demo video
+https://youtu.be/Fx4hBHih7Qs
